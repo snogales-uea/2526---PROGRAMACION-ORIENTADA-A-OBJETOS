@@ -26,7 +26,7 @@ Este repositorio incluye:
 1. Clona el repositorio:  
    ```bash
    git clone https://github.com/snogales-uea/2526---PROGRAMACION-ORIENTADA-A-OBJETOS.git
-   cd 2525-PROGRAMACION-ORIENTADA-A-OBJETOS 
+   cd 2526---PROGRAMACION-ORIENTADA-A-OBJETOS
 
 2. Crear un nuevo repositorio en tu cuenta de GitHub Ve a GitHub: https://github.com/new
 
