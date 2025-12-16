@@ -110,7 +110,7 @@ class Docente(Persona):
 # ============================================
 
 p1 = Persona("Luis", "González", "M", 30)
-e1 = Estudiante("María", "Pérez", "F", 20, "Ingeniería")
+e1 = Estudiante("María", "Pérez", "F", 20, "Ingeniería TI")
 d1 = Docente("Ana", "Ramírez", "F", 40, "Programación")
 
 print(p1.mostrar_info())
