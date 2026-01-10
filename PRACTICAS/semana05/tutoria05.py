@@ -7,6 +7,7 @@ edadEstudiante = int(input("Ingresa tu edad: ")) # camelCase
 nota_parcial_1 = float(input("Ingresa nota parcial 1: ")) # snake_case
 notaParcial2 = float(input("Ingresa nota parcial 2: ")) # camelCase
 
+# procesamiento
 def aprueba_estudiante(nota_parcial_1, nota_parcial_2):
     suma_notas = nota_parcial_1 + nota_parcial_2
     if suma_notas >= 70:
